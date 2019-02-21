@@ -1,0 +1,28 @@
+
+
+body {
+    /*background: url('../images/banner.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+    background: #f2f2f2 !important;
+
+}
+
+
+#heading{
+	color: black;
+	margin: 100px auto;
+}
+
+button:hover{
+	cursor: pointer;
+}
+
+
+
+.video_margin{
+	margin-bottom: 15px;
+}
+
